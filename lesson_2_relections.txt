@@ -3,3 +3,9 @@ A directory .git is created when I initialize a repository. I need this director
 
 2. How is the staging area different from the working directory and the repository? What value do you think it offers?
 Staging area is the intermedia place for file commits to be created. It can save files you want to commit and then save them as a single commit at the same time.
+
+3. How can you use the staging area to make sure you have one commit per logical change?
+Whenever a logical change is made, all related files are updated and added into staging area.
+
+4. What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+It would be helpful when I need different versions of my file exist at the same time. Using branches is a good way to organize the different versions of file.
